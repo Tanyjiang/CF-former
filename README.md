@@ -2,4 +2,4 @@
 
 CF-former
 
-The code will be available soon.
+The source code will be made available soon.
