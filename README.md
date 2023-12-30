@@ -1,3 +1,5 @@
-# CF-former
+# Compare and Focus: Multi-Scale View Aggregation For Crowd Counting   
 
-The code and pre-trained models will be available soon.
+CF-former
+
+The code will be available soon.
