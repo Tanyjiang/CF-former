@@ -25,3 +25,6 @@ Take a look at the arguments accepted by ```train.py```
 # Environment
 	See requirements.txt
 
+# Acknowledgement
+
+This project is based on CCTrans[link](https://github.com/wfs123456/CCTrans). Thanks for these awesome codes!
