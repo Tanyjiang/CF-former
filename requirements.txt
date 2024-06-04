@@ -1,0 +1,10 @@
+torch==1.9.1+cu118
+torchvision==0.10.0+cu118
+numpy==1.24.2
+scipy==1.10.1
+opencv-python
+Pillow==9.4.0
+gradio==4.28.3
+timm==0.4.12
+matplotlib==3.7.1
+wandb
